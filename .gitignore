@@ -54,12 +54,17 @@ ipch/
 
 # ReSharper is a .NET coding add-in
 _ReSharper*
+*_ReSharper*
+*.resharper.*
 
 # NCrunch
 *.ncrunch*
 .*crunch*.local.xml
+_NCrunch_*
+*.ncrunchproject
+*.ncrunchsolution
 
-# Installshield output folder 
+# Installshield output folder
 [Ee]xpress
 
 # DocProject is a documentation generator add-in
