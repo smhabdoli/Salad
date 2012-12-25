@@ -5,7 +5,7 @@ Salaad aims to bring the full scale of Cucumber ad RSpec over from Ruby to C#. I
 Please feel free to send me ideas and suggestions and well as code.
 
 
-Update: I'm making locales based on cucumber's files, if you're familiar with any of the languages plese help. Thanks.
+Update: I'm making locales based on cucumber's files, if you're familiar with any of the languages please help. Thanks.
 
 Examples
 ========

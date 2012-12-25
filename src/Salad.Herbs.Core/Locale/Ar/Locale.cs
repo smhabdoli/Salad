@@ -25,7 +25,8 @@ namespace Salad.Herbs.Core.Locale.Ar
                                {"Given", "في الآلة"}, 
                                {"When", "متى"},
                                {"And", "و"},
-                               {"Then", "على"}
+                               {"Then", "على"},
+                               {"Examples", "امثلة"}
                            };
         }
     }

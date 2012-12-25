@@ -27,7 +27,8 @@ namespace Salad.Herbs.Core.Locale.De
                                {"Given1", "Gegeben sei"},
                                {"When", "Wenn"},
                                {"And", "Und"},
-                               {"Then", "Dann"}
+                               {"Then", "Dann"},
+                               {"Examples", "Beispiele"}
                            };
         }
     }

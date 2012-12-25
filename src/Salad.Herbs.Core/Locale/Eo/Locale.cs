@@ -26,7 +26,8 @@ namespace Salad.Herbs.Core.Locale.Eo
                                {"Given", "Donitaĵo"},
                                {"When", "Se"},
                                {"And", "Kaj"},
-                               {"Then", "Do"}
+                               {"Then", "Do"},
+                               {"Examples", "Ekzemploj"}
                            };
         }
     }

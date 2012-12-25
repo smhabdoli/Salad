@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 
-namespace Salad.Herbs.Core.Locale.Bg
+namespace Salad.Herbs.Core.Locale.Ru
 {
     public class Locale : ILocale
     {
@@ -16,18 +16,20 @@ namespace Salad.Herbs.Core.Locale.Bg
 
         public void Initialize()
         {
-            Language = "bg";
+            Language = "ru";
 
             _locales = new Hashtable
                            {
-                               {"Feature", "Функционалност"}, 
-                               {"Scenario", "Рамка на сценарий"},
+                               {"Feature", "Функционал"},
+                               {"Feature1", "Функция"},
+                               {"Scenario", "Структура сценария"},
                                {"Scenario1", "Сценарий"},
-                               {"Given", "Дадено"}, 
-                               {"When", "Когато"},
+                               {"Background", "Предыстория"},
+                               {"Given", "Допустим"},
+                               {"When", "Если"},
                                {"And", "И"},
                                {"Then", "То"},
-                               {"Examples", "Примери"}
+                               {"Examples", "Примеры"}
                            };
         }
     }

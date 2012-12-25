@@ -26,7 +26,8 @@ namespace Salad.Herbs.Core.Locale.Ca
                                {"Given", "Donat"}, 
                                {"When", "Quan"},
                                {"And", "I"},
-                               {"Then", "Aleshores"}
+                               {"Then", "Aleshores"},
+                               {"Examples", "Exemples"}
                            };
         }
     }

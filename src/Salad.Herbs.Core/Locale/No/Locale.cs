@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 
-namespace Salad.Herbs.Core.Locale.Da
+namespace Salad.Herbs.Core.Locale.No
 {
     public class Locale : ILocale
     {
@@ -16,13 +16,13 @@ namespace Salad.Herbs.Core.Locale.Da
 
         public void Initialize()
         {
-            Language = "da";
+            Language = "no";
 
             _locales = new Hashtable
                            {
-                               {"Feature", "Egenskab"}, 
-                               {"Scenario", "Scenarie"},
-                               {"Given", "Givet"}, 
+                               {"Feature", "Egenskap"}, 
+                               {"Scenario", "Scenario"},
+                               {"Given", "Gitt"},
                                {"When", "Når"},
                                {"And", "Og"},
                                {"Then", "Så"},
